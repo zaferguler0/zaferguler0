@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Zafer 👋
 
-<!--
-**zaferguler0/zaferguler0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Developer(19y) from Ordu, Turkey 🇹🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything 🤣
+- 💙 I’ve been working on Flutter for 1,5 year
+- 💪 I’m on the GDG Kayseri Volunteer Team
+- 👩🏻‍💻 I’m studying computer engineering at Erciyes University (2/4)
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[twitter]: https://twitter.com/zafrgulr
+[instagram]: https://www.instagram.com/_zaferguler
+[linkedin]: https://www.linkedin.com/in/zafrgulr
