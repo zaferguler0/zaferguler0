@@ -4,7 +4,7 @@
 ## I'm a Developer(19y) from Ordu, Turkey 🇹🇷
 
 - 🌱 I’m currently learning everything 🤣
-- 💙 I’ve been working on Flutter for 1,5 year
+- 💙 I’ve been working on Flutter for 1 year
 - 💪 I’m on the GDG Kayseri Volunteer Team
 - 👩🏻‍💻 I’m studying computer engineering at Erciyes University (2/4)
 - 🥅 2021 Goals: Contribute more to Open Source projects
