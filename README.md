@@ -1,4 +1,4 @@
-### Hi there, I'm Zafer 👋
+### Hi there, I'm Zafer ![Alt Text](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 
 ## I'm a Developer(19y) from Ordu, Turkey 🇹🇷
