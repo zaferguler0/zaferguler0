@@ -1,4 +1,4 @@
-### Hi there, I'm Zafer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
+### Hi there, I'm Zafer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" height="20" />
 
 
 ## I'm a Developer(19y) from Ordu, Turkey 🇹🇷
