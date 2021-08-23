@@ -1,12 +1,12 @@
 ### Hi there, I'm Zafer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" height="20" />
 
 
-## I'm a Developer(19y) from Ordu, Turkey 🇹🇷
+## I'm a Developer(20y) from Ordu, Turkey 🇹🇷
 
 - 🌱 I’m currently learning everything 🤣
-- 💙 I’ve been working on Flutter for 1 year
+- 💙 I’ve been working on Flutter for 2 year
 - 💪 I’m on the GDG Kayseri Volunteer Team
-- 👩🏻‍💻 I’m studying computer engineering at Erciyes University (2/4)
+- 👩🏻‍💻 I’m studying computer engineering at Erciyes University (3/4)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
