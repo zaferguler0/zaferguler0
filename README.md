@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 💙 I’ve been working on Flutter for 2 year
-- 💪 I’m on the GDG Kayseri Volunteer Team
 - 👩🏻‍💻 I’m studying computer engineering at Erciyes University (3/4)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
